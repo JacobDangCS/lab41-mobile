@@ -12,4 +12,20 @@ MVP: Build a To Do app
 [Lab 41 UML](./assets/Lab41-image.png)
 
 ## Deployment Link
-[Lab 41 Deployment]()
+[Lab 41 Deployment](https://serene-brioche-cd7c97.netlify.app/)
+
+
+
+# Lab 42 Phase 2
+Using React Native & Expo as tools to create a mobile application. Utilizing Expo documentation and API, this lab demonstrates the capabilities of React from a different angle.
+
+## Project Outline
+Final: Error Handling & Scroll Functionality
+- If multiple tasks are inputted, they can be seen using scroll view
+- Cannot display the written task input when "+" is used
+
+## UML
+[Lab 42 UML](./assets/Lab42-image.png)
+
+## Deployment Link
+[Lab 42 Deployment](https://serene-brioche-cd7c97.netlify.app/)
